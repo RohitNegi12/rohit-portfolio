@@ -6,8 +6,6 @@
 
 const elemToggleFunc = function (elem) { elem.classList.toggle("active"); }
 
-
-
 /**
  * header sticky & go to top
  */
@@ -26,8 +24,6 @@ window.addEventListener("scroll", function () {
   }
 
 });
-
-
 
 /**
  * navbar toggle
